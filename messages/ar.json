@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "catalog": "الكتالوج",
+    "flashSales": "المبيعات الفلاشية",
+    "search": "بحث",
+    "cart": "السلة",
+    "account": "الحساب"
+  },
+  "home": {
+    "hero": "أهلا وسهلا بك في متجرنا",
+    "heroSubtitle": "اكتشف منتجات عالية الجودة بأسعار لا تقبل المنافسة",
+    "featuredProducts": "المنتجات المميزة",
+    "viewAll": "عرض الكل",
+    "categories": "التسوق حسب الفئة",
+    "flashSales": "المبيعات الفلاشية",
+    "testimonials": "آراء عملائنا",
+    "delivery": "توصيل سريع ومجاني للطلبات فوق 50 دولار",
+    "returns": "إرجاع سهل خلال 30 يوم",
+    "support": "دعم العملاء 24/7"
+  },
+  "catalog": {
+    "title": "التسوق حسب الفئة",
+    "filters": "المرشحات",
+    "price": "نطاق السعر",
+    "rating": "التقييم",
+    "availability": "التوفر",
+    "sort": "ترتيب حسب",
+    "sortPrice": "السعر: من الأقل للأعلى",
+    "sortRating": "الأعلى تقييمًا",
+    "inStock": "متاح",
+    "applyFilters": "تطبيق المرشحات",
+    "clearFilters": "مسح المرشحات",
+    "noResults": "لم يتم العثور على منتجات"
+  },
+  "product": {
+    "details": "تفاصيل المنتج",
+    "specs": "المواصفات",
+    "reviews": "التقييمات والآراء",
+    "related": "منتجات ذات صلة",
+    "addToCart": "أضف إلى السلة",
+    "addToWishlist": "أضف إلى قائمة الأمنيات",
+    "inStock": "متاح",
+    "outOfStock": "غير متاح",
+    "selectVariant": "اختر خيارًا",
+    "color": "اللون",
+    "quantity": "الكمية",
+    "writeReview": "اكتب تقييمًا",
+    "verified": "عملية شراء موثوقة"
+  },
+  "flashSales": {
+    "title": "المبيعات الفلاشية",
+    "active": "المبيعات النشطة",
+    "upcoming": "المبيعات القادمة",
+    "countdownEnds": "ينتهي في",
+    "discount": "% خصم",
+    "shopNow": "تسوق الآن",
+    "progress": "تم بيع"
+  },
+  "search": {
+    "title": "البحث عن المنتجات",
+    "placeholder": "ابحث عن المنتجات...",
+    "noResults": "لم يتم العثور على منتجات",
+    "results": "نتائج البحث"
+  },
+  "common": {
+    "price": "السعر",
+    "rating": "التقييم",
+    "reviews": "التقييمات",
+    "stock": "المخزون",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما"
+  }
+}
