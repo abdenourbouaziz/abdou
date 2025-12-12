@@ -1,0 +1,54 @@
+{
+  "seo": {
+    "siteName": "متجر DZ",
+    "homeTitle": "متجر DZ — عروض اليوم",
+    "homeDescription": "اكتشف منتجات مختارة، ادفع بالدينار الجزائري واستلم بسرعة داخل الجزائر.",
+    "categoriesTitle": "التصنيفات — متجر DZ",
+    "categoriesDescription": "تصفح أكثر التصنيفات شيوعًا.",
+    "checkoutTitle": "الدفع — متجر DZ",
+    "checkoutDescription": "أكمل طلبك بأمان."
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "categories": "التصنيفات",
+    "checkout": "الدفع"
+  },
+  "language": {
+    "label": "اللغة",
+    "fr": "Français",
+    "ar": "العربية"
+  },
+  "hero": {
+    "title": "تسوّق أسرع. ادفع بالدينار الجزائري.",
+    "subtitle": "واجهة ثنائية اللغة (FR/AR) مع دعم RTL وتنقل بدون إعادة تحميل.",
+    "ctaPrimary": "عرض التصنيفات",
+    "ctaSecondary": "الانتقال للدفع"
+  },
+  "categories": {
+    "title": "تصنيفات شائعة",
+    "electronics": "إلكترونيات",
+    "fashion": "أزياء",
+    "beauty": "جمال",
+    "home": "المنزل",
+    "cta": "استكشف"
+  },
+  "checkout": {
+    "title": "الدفع",
+    "subtitle": "ملخص الطلب",
+    "total": "الإجمالي",
+    "deliveryDate": "موعد التسليم المتوقع",
+    "offerEnds": "ينتهي العرض خلال",
+    "payNow": "ادفع الآن"
+  },
+  "breadcrumbs": {
+    "home": "الرئيسية",
+    "categories": "التصنيفات",
+    "checkout": "الدفع"
+  },
+  "countdown": {
+    "days": "ي",
+    "hours": "س",
+    "minutes": "د",
+    "seconds": "ث"
+  }
+}

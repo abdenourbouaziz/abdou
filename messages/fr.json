@@ -1,0 +1,54 @@
+{
+  "seo": {
+    "siteName": "Boutique DZ",
+    "homeTitle": "Boutique DZ — Offres du jour",
+    "homeDescription": "Découvrez des produits sélectionnés, payez en DZD et recevez rapidement en Algérie.",
+    "categoriesTitle": "Catégories — Boutique DZ",
+    "categoriesDescription": "Parcourez nos catégories les plus populaires.",
+    "checkoutTitle": "Paiement — Boutique DZ",
+    "checkoutDescription": "Finalisez votre commande en toute sécurité."
+  },
+  "nav": {
+    "home": "Accueil",
+    "categories": "Catégories",
+    "checkout": "Paiement"
+  },
+  "language": {
+    "label": "Langue",
+    "fr": "Français",
+    "ar": "العربية"
+  },
+  "hero": {
+    "title": "Achetez plus vite. Payez en DZD.",
+    "subtitle": "Une vitrine bilingue (FR/AR) avec prise en charge RTL et navigation instantanée.",
+    "ctaPrimary": "Voir les catégories",
+    "ctaSecondary": "Passer au paiement"
+  },
+  "categories": {
+    "title": "Catégories populaires",
+    "electronics": "Électronique",
+    "fashion": "Mode",
+    "beauty": "Beauté",
+    "home": "Maison",
+    "cta": "Explorer"
+  },
+  "checkout": {
+    "title": "Paiement",
+    "subtitle": "Récapitulatif de la commande",
+    "total": "Total",
+    "deliveryDate": "Date de livraison estimée",
+    "offerEnds": "L’offre se termine dans",
+    "payNow": "Payer maintenant"
+  },
+  "breadcrumbs": {
+    "home": "Accueil",
+    "categories": "Catégories",
+    "checkout": "Paiement"
+  },
+  "countdown": {
+    "days": "j",
+    "hours": "h",
+    "minutes": "min",
+    "seconds": "s"
+  }
+}
