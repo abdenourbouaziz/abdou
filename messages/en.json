@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "flashSales": "Flash Sales",
+    "search": "Search",
+    "cart": "Cart",
+    "account": "Account"
+  },
+  "home": {
+    "hero": "Welcome to Our Store",
+    "heroSubtitle": "Discover premium products with unbeatable prices",
+    "featuredProducts": "Featured Products",
+    "viewAll": "View All",
+    "categories": "Shop by Category",
+    "flashSales": "Flash Sales",
+    "testimonials": "What Our Customers Say",
+    "delivery": "Fast & Free Delivery on Orders Over $50",
+    "returns": "30-Day Easy Returns",
+    "support": "24/7 Customer Support"
+  },
+  "catalog": {
+    "title": "Shop by Category",
+    "filters": "Filters",
+    "price": "Price Range",
+    "rating": "Rating",
+    "availability": "Availability",
+    "sort": "Sort By",
+    "sortPrice": "Price: Low to High",
+    "sortRating": "Highest Rated",
+    "inStock": "In Stock",
+    "applyFilters": "Apply Filters",
+    "clearFilters": "Clear Filters",
+    "noResults": "No products found"
+  },
+  "product": {
+    "details": "Product Details",
+    "specs": "Specifications",
+    "reviews": "Reviews & Ratings",
+    "related": "Related Products",
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "selectVariant": "Select a variant",
+    "color": "Color",
+    "quantity": "Quantity",
+    "writeReview": "Write a Review",
+    "verified": "Verified Purchase"
+  },
+  "flashSales": {
+    "title": "Flash Sales",
+    "active": "Active Sales",
+    "upcoming": "Upcoming Sales",
+    "countdownEnds": "Ends in",
+    "discount": "% OFF",
+    "shopNow": "Shop Now",
+    "progress": "Sold"
+  },
+  "search": {
+    "title": "Search Products",
+    "placeholder": "Search for products...",
+    "noResults": "No products found",
+    "results": "Search Results"
+  },
+  "common": {
+    "price": "Price",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "stock": "Stock",
+    "loading": "Loading...",
+    "error": "Something went wrong"
+  }
+}
